@@ -1,0 +1,66 @@
+{
+  "vanillatweaks:gem_villagers": {
+    "criteria": {
+      "tick": "2020-12-24 14:55:15 +0100"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-12-24 22:18:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:treasure_gems": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:redstone_wrench": {
+    "criteria": {
+      "tick": "2020-12-14 18:25:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-24 15:00:34 +0100",
+      "minecraft:wooded_hills": "2020-12-14 18:26:00 +0100",
+      "minecraft:savanna": "2020-12-14 18:26:14 +0100",
+      "minecraft:plains": "2020-12-24 14:55:16 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

@@ -1,0 +1,150 @@
+{
+  "vanillatweaks:gem_villagers": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-10-28 05:52:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-10-28 05:53:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-10-28 05:52:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "redstone_wrench:recipes/tools/wrench": {
+    "criteria": {
+      "has_gold": "2021-10-28 05:54:56 +0200",
+      "has_iron": "2021-10-28 05:54:56 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-10-28 05:51:19 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-10-28 05:53:22 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:treasure_gems": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-10-28 05:52:11 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:redstone_wrench": {
+    "criteria": {
+      "tick": "2021-10-28 05:48:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-10-28 05:53:23 +0200",
+      "minecraft:warped_forest": "2021-10-28 05:54:08 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-10-28 05:49:00 +0200",
+      "minecraft:mountains": "2021-10-28 05:50:12 +0200",
+      "minecraft:desert_hills": "2021-10-28 05:54:18 +0200",
+      "minecraft:desert": "2021-10-28 05:54:22 +0200",
+      "minecraft:birch_forest": "2021-10-28 05:49:17 +0200",
+      "minecraft:savanna_plateau": "2021-10-28 05:49:34 +0200",
+      "minecraft:beach": "2021-10-28 05:50:35 +0200",
+      "minecraft:dark_forest": "2021-10-28 05:51:46 +0200",
+      "minecraft:river": "2021-10-28 05:48:59 +0200",
+      "minecraft:birch_forest_hills": "2021-10-28 05:49:11 +0200",
+      "minecraft:wooded_mountains": "2021-10-28 05:50:15 +0200",
+      "minecraft:wooded_hills": "2021-10-28 05:48:53 +0200",
+      "minecraft:savanna": "2021-10-28 05:49:30 +0200",
+      "minecraft:plains": "2021-10-28 05:49:01 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2724
+}

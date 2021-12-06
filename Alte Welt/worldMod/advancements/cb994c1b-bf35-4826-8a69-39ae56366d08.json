@@ -1,0 +1,105 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-12-18 19:31:41 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2020-12-18 19:31:41 +0100",
+      "baked_potato": "2020-12-18 19:32:36 +0100"
+    },
+    "done": false
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:treasure_gems": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-12-18 19:31:58 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:redstone_wrench": {
+    "criteria": {
+      "tick": "2020-12-18 19:28:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-18 19:30:31 +0100",
+      "minecraft:savanna_plateau": "2020-12-18 19:31:38 +0100",
+      "minecraft:river": "2020-12-18 19:29:01 +0100",
+      "minecraft:birch_forest_hills": "2020-12-18 19:30:44 +0100",
+      "minecraft:wooded_hills": "2020-12-18 19:28:03 +0100",
+      "minecraft:savanna": "2020-12-18 19:30:53 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

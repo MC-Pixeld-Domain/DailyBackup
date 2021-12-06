@@ -1,0 +1,57 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-12-12 02:09:13 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:treasure_gems": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "vanillatweaks:redstone_wrench": {
+    "criteria": {
+      "tick": "2020-12-12 02:08:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_hills": "2020-12-12 02:08:05 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

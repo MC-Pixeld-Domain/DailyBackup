@@ -1,0 +1,58 @@
+{
+  "vanillatweaks:gem_villagers": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:treasure_gems": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:redstone_wrench": {
+    "criteria": {
+      "tick": "2021-04-09 19:46:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_hills": "2021-04-09 19:46:23 +0200",
+      "minecraft:plains": "2021-04-09 19:46:29 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

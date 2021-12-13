@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2021-12-12 16:22:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-12-11 20:38:48 +0100"
@@ -514,6 +520,12 @@
       "has_sand": "2021-12-11 16:29:59 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:mooshroom": "2021-12-12 20:40:36 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -838,6 +850,7 @@
       "minecraft:skeleton": "2021-12-11 18:36:32 +0100",
       "minecraft:spider": "2021-12-11 18:37:43 +0100",
       "minecraft:creeper": "2021-12-11 20:38:48 +0100",
+      "minecraft:phantom": "2021-12-12 20:55:42 +0100",
       "minecraft:cave_spider": "2021-12-11 17:14:44 +0100",
       "minecraft:zombie": "2021-12-11 18:48:17 +0100"
     },
@@ -888,6 +901,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2021-12-11 16:04:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-12-12 16:22:03 +0100"
     },
     "done": true
   },
@@ -1149,6 +1168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2021-12-12 16:22:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-12-11 15:47:44 +0100"
@@ -1398,6 +1423,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-11 20:04:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2021-12-12 20:53:33 +0100"
     },
     "done": true
   },
@@ -1669,6 +1700,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2021-12-12 21:10:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-11 18:52:55 +0100"
@@ -1696,6 +1733,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2021-12-11 17:10:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-12-12 20:40:36 +0100"
     },
     "done": true
   },

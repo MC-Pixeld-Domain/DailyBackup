@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2021-12-13 19:20:46 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-12-02 16:09:00 +0100"
@@ -1060,6 +1066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-12-13 21:52:56 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2021-12-09 16:23:43 +0100"
@@ -1788,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2021-12-13 18:42:49 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-12-08 18:40:31 +0100"
@@ -2191,7 +2209,9 @@
       "minecraft:pig": "2021-12-05 16:52:36 +0100",
       "minecraft:turtle": "2021-12-11 14:59:44 +0100",
       "minecraft:sheep": "2021-12-09 16:24:54 +0100",
-      "minecraft:cow": "2021-12-09 16:24:34 +0100"
+      "minecraft:cow": "2021-12-09 16:24:34 +0100",
+      "minecraft:horse": "2021-12-13 21:00:51 +0100",
+      "minecraft:bee": "2021-12-13 21:55:21 +0100"
     },
     "done": false
   },
@@ -2969,6 +2989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2021-12-13 19:36:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-02 15:37:41 +0100"
@@ -3158,6 +3184,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-12-09 16:53:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2021-12-13 19:20:46 +0100"
     },
     "done": true
   },

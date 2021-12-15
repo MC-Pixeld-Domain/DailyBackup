@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-14 21:52:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-11 17:11:19 +0100"
@@ -637,6 +643,7 @@
       "minecraft:creeper": "2021-12-01 13:51:12 +0100",
       "minecraft:slime": "2021-12-11 16:53:45 +0100",
       "minecraft:phantom": "2021-12-02 21:16:34 +0100",
+      "minecraft:cave_spider": "2021-12-14 21:54:03 +0100",
       "minecraft:enderman": "2021-12-02 20:28:13 +0100",
       "minecraft:silverfish": "2021-12-05 14:44:16 +0100",
       "minecraft:zombie": "2021-12-01 12:59:16 +0100",
@@ -1473,6 +1480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-14 21:52:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2021-12-11 15:49:02 +0100"
@@ -1641,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-14 21:52:04 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-12-06 19:19:24 +0100"
@@ -1704,6 +1723,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-12-01 14:07:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-12-14 21:52:04 +0100"
     },
     "done": true
   },
@@ -2617,6 +2642,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2021-12-14 21:45:29 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-12-01 13:01:58 +0100"
@@ -2863,6 +2894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2021-12-14 20:54:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2021-12-12 16:26:38 +0100"
@@ -3034,6 +3071,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-12-01 17:59:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-12-14 21:52:04 +0100"
     },
     "done": true
   },

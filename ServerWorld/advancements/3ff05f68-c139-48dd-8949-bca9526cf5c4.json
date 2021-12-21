@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2021-12-20 19:08:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-01 18:44:29 +0100"
@@ -338,6 +344,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2021-12-04 18:52:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2021-12-20 18:21:56 +0100"
     },
     "done": true
   },
@@ -1059,6 +1071,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2021-12-20 19:12:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2021-12-04 18:52:52 +0100"
@@ -1312,6 +1330,7 @@
       "minecraft:jagged_peaks": "2021-12-01 11:54:51 +0100",
       "minecraft:cold_ocean": "2021-12-01 12:13:30 +0100",
       "minecraft:forest": "2021-12-01 11:48:05 +0100",
+      "minecraft:lush_caves": "2021-12-20 18:04:52 +0100",
       "minecraft:deep_cold_ocean": "2021-12-01 12:13:49 +0100",
       "minecraft:windswept_forest": "2021-12-01 14:44:51 +0100",
       "minecraft:deep_frozen_ocean": "2021-12-11 19:51:02 +0100",
@@ -1864,6 +1883,7 @@
     "criteria": {
       "sweet_berries": "2021-12-02 13:28:08 +0100",
       "baked_potato": "2021-12-12 16:32:01 +0100",
+      "porkchop": "2021-12-20 18:49:59 +0100",
       "apple": "2021-12-01 13:16:36 +0100",
       "potato": "2021-12-11 18:55:50 +0100",
       "bread": "2021-12-01 13:51:18 +0100",
@@ -2305,6 +2325,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2021-12-11 17:12:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2021-12-20 19:12:40 +0100"
     },
     "done": true
   },
@@ -3087,6 +3113,13 @@
       "has_planks": "2021-12-02 18:10:38 +0100"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2021-12-20 20:37:34 +0100",
+      "textures/entity/cat/all_black.png": "2021-12-20 20:37:55 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {

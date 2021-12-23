@@ -739,9 +739,16 @@
       "minecraft:phantom": "2021-12-12 20:55:42 +0100",
       "minecraft:witch": "2021-12-13 18:04:34 +0100",
       "minecraft:cave_spider": "2021-12-11 17:14:44 +0100",
-      "minecraft:zombie": "2021-12-11 18:48:17 +0100"
+      "minecraft:zombie": "2021-12-11 18:48:17 +0100",
+      "minecraft:zombie_villager": "2021-12-23 10:14:19 +0100"
     },
     "done": false
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2021-12-23 11:29:41 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -3248,6 +3255,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2021-12-11 14:24:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-12-23 10:13:04 +0100"
     },
     "done": true
   },

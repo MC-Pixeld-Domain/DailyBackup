@@ -92,7 +92,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2021-12-10 18:41:11 +0100",
-      "minecraft:forest": "2021-12-13 22:44:24 +0100"
+      "minecraft:forest": "2021-12-13 22:44:24 +0100",
+      "minecraft:plains": "2021-12-24 00:09:06 +0100"
     },
     "done": false
   },

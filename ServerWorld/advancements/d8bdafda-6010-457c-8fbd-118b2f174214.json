@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-27 16:31:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-12-02 15:23:34 +0100"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-12-09 16:56:03 +0100"
@@ -503,6 +515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2021-12-27 16:18:47 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2021-12-09 17:01:03 +0100"
@@ -518,6 +536,18 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2021-12-19 20:57:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-12-27 16:21:23 +0100"
     },
     "done": true
   },
@@ -743,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2021-12-02 16:24:46 +0100"
@@ -814,8 +850,10 @@
       "minecraft:pillager": "2021-12-21 17:12:26 +0100",
       "minecraft:blaze": "2021-12-23 20:43:38 +0100",
       "minecraft:skeleton": "2021-12-02 16:13:51 +0100",
+      "minecraft:elder_guardian": "2021-12-27 16:08:41 +0100",
       "minecraft:ghast": "2021-12-23 21:00:47 +0100",
       "minecraft:hoglin": "2021-12-23 19:46:17 +0100",
+      "minecraft:guardian": "2021-12-27 16:07:53 +0100",
       "minecraft:magma_cube": "2021-12-09 17:02:22 +0100",
       "minecraft:spider": "2021-12-02 15:41:34 +0100",
       "minecraft:creeper": "2021-12-02 16:26:24 +0100",
@@ -916,6 +954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2021-12-27 14:52:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2021-12-02 15:12:17 +0100"
@@ -955,6 +999,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2021-12-23 20:44:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
     },
     "done": true
   },
@@ -1378,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-12-27 16:19:09 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-12-08 18:43:31 +0100"
@@ -1441,6 +1497,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2021-12-08 18:41:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-12-27 16:21:23 +0100"
     },
     "done": true
   },
@@ -1531,6 +1593,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-12-05 17:21:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2021-12-27 16:08:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2021-12-27 16:21:23 +0100"
     },
     "done": true
   },
@@ -1679,6 +1753,7 @@
       "minecraft:jagged_peaks": "2021-11-30 23:12:40 +0100",
       "minecraft:cold_ocean": "2021-12-02 17:06:37 +0100",
       "minecraft:forest": "2021-11-30 23:08:23 +0100",
+      "minecraft:lush_caves": "2021-12-27 14:31:43 +0100",
       "minecraft:windswept_forest": "2021-12-02 14:57:00 +0100",
       "minecraft:ocean": "2021-11-30 23:08:34 +0100",
       "minecraft:jungle": "2021-12-08 18:32:59 +0100",
@@ -1811,6 +1886,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2021-12-27 14:38:19 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2021-12-02 15:24:50 +0100"
@@ -1911,6 +1992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-12-27 16:08:00 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_pickaxe": "2021-12-08 18:21:52 +0100"
@@ -1950,6 +2037,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2021-12-08 21:11:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-12-27 14:52:41 +0100"
     },
     "done": true
   },
@@ -2049,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-27 16:31:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2021-12-08 19:29:54 +0100"
@@ -2082,6 +2181,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-02 16:24:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2021-12-27 16:08:00 +0100"
     },
     "done": true
   },
@@ -2316,6 +2421,7 @@
       "baked_potato": "2021-12-05 17:28:06 +0100",
       "apple": "2021-12-02 15:19:17 +0100",
       "potato": "2021-12-09 16:40:59 +0100",
+      "cooked_cod": "2021-12-27 16:25:24 +0100",
       "pumpkin_pie": "2021-12-16 21:53:03 +0100",
       "bread": "2021-12-03 17:04:55 +0100",
       "rotten_flesh": "2021-12-02 15:24:30 +0100",
@@ -2460,6 +2566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2021-12-27 16:21:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-12-02 15:41:58 +0100"
@@ -2514,6 +2626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2021-12-27 14:52:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2021-12-09 16:53:43 +0100"
@@ -2535,12 +2653,14 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2021-12-21 17:43:21 +0100",
+      "minecraft:fox": "2021-12-27 15:32:33 +0100",
       "minecraft:pig": "2021-12-05 16:52:36 +0100",
       "minecraft:turtle": "2021-12-11 14:59:44 +0100",
       "minecraft:sheep": "2021-12-09 16:24:54 +0100",
       "minecraft:cow": "2021-12-09 16:24:34 +0100",
       "minecraft:horse": "2021-12-13 21:00:51 +0100",
-      "minecraft:bee": "2021-12-13 21:55:21 +0100"
+      "minecraft:bee": "2021-12-13 21:55:21 +0100",
+      "minecraft:axolotl": "2021-12-27 15:50:59 +0100"
     },
     "done": false
   },
@@ -2559,6 +2679,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-12-08 21:20:54 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
     },
     "done": true
   },
@@ -2892,6 +3018,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-27 16:31:36 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-02 16:24:46 +0100"
@@ -3045,6 +3177,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-12-23 20:44:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2021-12-27 15:46:43 +0100"
     },
     "done": true
   },
@@ -3255,6 +3393,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2021-12-08 19:23:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2021-12-27 16:06:50 +0100"
     },
     "done": true
   },
@@ -3597,6 +3741,12 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2021-12-13 19:20:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2021-12-27 16:31:36 +0100"
     },
     "done": true
   },

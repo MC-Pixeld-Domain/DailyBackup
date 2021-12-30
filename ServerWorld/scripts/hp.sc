@@ -6,3 +6,7 @@ __command() ->
   print(floor(last_tick)+' MSPT -> potential tps: '+floor(1000/last_tick));
   print('-- Fabs Health Check erfolgreich');
  );
+
+__config() -> {
+    'stay_loaded' -> 'true'
+};

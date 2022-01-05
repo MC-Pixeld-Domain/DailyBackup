@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "armor_statues:armor_statues": {
+    "criteria": {
+      "tick": "2022-01-04 20:49:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-12-10 23:45:05 +0100"
@@ -1233,6 +1239,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2021-12-10 23:54:40 +0100"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2022-01-04 20:49:40 +0100"
     },
     "done": true
   },

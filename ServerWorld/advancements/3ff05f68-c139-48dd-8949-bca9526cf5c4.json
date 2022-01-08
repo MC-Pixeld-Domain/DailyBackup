@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "armor_statues:armor_statues": {
+    "criteria": {
+      "tick": "2022-01-07 14:01:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-12-01 14:07:14 +0100"
@@ -961,6 +967,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2021-12-12 16:34:48 +0100"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2022-01-07 14:01:44 +0100"
     },
     "done": true
   },

@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-03-07 11:38:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2021-12-16 15:56:54 +0100"
@@ -2170,6 +2176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2022-03-07 11:53:01 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2022-01-03 17:44:07 +0100"
@@ -3959,6 +3971,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2021-12-19 18:05:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-03-07 11:38:28 +0100"
     },
     "done": true
   },

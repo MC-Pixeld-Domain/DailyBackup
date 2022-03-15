@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-03-14 10:58:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-12-11 15:52:56 +0100"
@@ -422,6 +428,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_deepslate_copper_ore": {
     "criteria": {
       "has_deepslate_copper_ore": "2022-03-13 18:03:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-03-14 10:58:42 +0100"
     },
     "done": true
   },
@@ -1070,6 +1082,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2022-03-06 16:30:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-03-14 10:58:42 +0100"
     },
     "done": true
   },
@@ -3230,6 +3248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2022-03-14 14:26:16 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2021-12-11 19:29:04 +0100"
@@ -4886,11 +4910,15 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "textures/entity/cat/white.png": "2022-03-13 22:11:13 +0100",
+      "textures/entity/cat/tabby.png": "2022-03-14 10:25:12 +0100",
       "textures/entity/cat/black.png": "2022-03-13 18:26:18 +0100",
       "textures/entity/cat/jellie.png": "2022-03-13 22:11:30 +0100",
       "textures/entity/cat/siamese.png": "2022-03-13 22:10:53 +0100",
       "textures/entity/cat/ragdoll.png": "2022-03-13 22:10:02 +0100",
-      "textures/entity/cat/red.png": "2022-03-13 18:12:46 +0100"
+      "textures/entity/cat/british_shorthair.png": "2022-03-14 10:26:21 +0100",
+      "textures/entity/cat/persian.png": "2022-03-14 10:24:04 +0100",
+      "textures/entity/cat/red.png": "2022-03-13 18:12:46 +0100",
+      "textures/entity/cat/calico.png": "2022-03-14 10:26:01 +0100"
     },
     "done": false
   },

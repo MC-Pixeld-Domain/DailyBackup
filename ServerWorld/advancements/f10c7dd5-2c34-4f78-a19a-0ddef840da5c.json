@@ -1,0 +1,111 @@
+{
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2022-04-29 18:37:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-04-29 18:44:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-04-29 18:41:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-04-29 18:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-04-29 18:38:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:armor_statues": {
+    "criteria": {
+      "tick": "2022-04-29 18:37:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_carrot": "2022-04-29 18:41:24 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-04-29 18:44:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-04-29 18:44:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-04-29 18:41:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-04-29 18:45:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2022-04-29 18:42:55 +0200",
+      "minecraft:river": "2022-04-29 18:39:12 +0200",
+      "minecraft:stony_shore": "2022-04-29 18:42:33 +0200",
+      "minecraft:forest": "2022-04-29 18:47:36 +0200",
+      "minecraft:flower_forest": "2022-04-29 18:37:30 +0200",
+      "minecraft:meadow": "2022-04-29 18:45:22 +0200",
+      "minecraft:plains": "2022-04-29 18:39:02 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}

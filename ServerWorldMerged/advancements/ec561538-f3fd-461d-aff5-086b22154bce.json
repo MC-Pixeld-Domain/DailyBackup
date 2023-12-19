@@ -1,9 +1,10 @@
 {
-  "minecraft:recipes/tools/stone_shovel": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_cobblestone": "2021-12-07 17:01:24 +0000"
+      "minecraft:stony_shore": "2023-04-15 20:07:01 +0000",
+      "minecraft:plains": "2021-12-07 17:00:10 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
@@ -11,9 +12,21 @@
     },
     "done": true
   },
-  "armor_statues:enable": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "tick": "2023-04-15 20:07:01 +0000"
+      "iron_pickaxe": "2021-12-07 17:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2021-12-07 17:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2021-12-07 17:01:24 +0000"
     },
     "done": true
   },
@@ -26,12 +39,6 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-12-07 17:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2021-12-07 17:00:17 +0000"
     },
     "done": true
   },
@@ -56,12 +63,6 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-12-07 17:01:24 +0000"
-    },
-    "done": true
-  },
-  "armor_statues:armor_statues": {
-    "criteria": {
-      "tick": "2023-04-15 20:07:01 +0000"
     },
     "done": true
   },
@@ -95,21 +96,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2021-12-07 17:03:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2021-12-07 17:01:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_pickaxe": "2021-12-07 17:00:17 +0000"
     },
     "done": true
   },
@@ -119,18 +108,35 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:stony_shore": "2023-04-15 20:07:01 +0000",
-      "minecraft:plains": "2021-12-07 17:00:10 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2021-12-07 17:01:24 +0000"
     },
     "done": true
   },
-  "DataVersion": 3218
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-12-07 17:03:28 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2023-04-15 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "armor_statues:armor_statues": {
+    "criteria": {
+      "tick": "2023-04-15 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-07 12:16:42 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3698
 }
